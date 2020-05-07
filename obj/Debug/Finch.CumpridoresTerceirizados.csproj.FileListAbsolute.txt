@@ -1,0 +1,291 @@
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Finch.CumpridoresTerceirizados.dll.config
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Finch.CumpridoresTerceirizados.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Finch.CumpridoresTerceirizados.pdb
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\csc.exe
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\csc.exe.config
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\csc.rsp
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\csi.exe
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\csi.exe.config
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\csi.rsp
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.AppContext.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Console.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Net.Http.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\vbc.exe
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\vbc.exe.config
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\vbc.rsp
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Antlr3.Runtime.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\BouncyCastle.Crypto.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Google.Protobuf.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\K4os.Compression.LZ4.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\K4os.Hash.xxHash.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\MySql.Data.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Newtonsoft.Json.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Renci.SshNet.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Buffers.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Memory.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Net.Http.Formatting.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Numerics.Vectors.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Helpers.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Http.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Http.WebHost.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Mvc.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Optimization.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Razor.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.WebPages.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Ubiety.Dns.Core.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\WebGrease.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Zstandard.Net.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Google.Protobuf.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\K4os.Compression.LZ4.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\K4os.Hash.xxHash.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\MySql.Data.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Renci.SshNet.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Buffers.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Memory.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Numerics.Vectors.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Newtonsoft.Json.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Net.Http.Formatting.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Helpers.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Http.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Http.WebHost.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Mvc.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Optimization.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Razor.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.WebPages.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Antlr3.Runtime.pdb
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\obj\Debug\Finch.CumpridoresTerceirizados.csprojAssemblyReference.cache
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\obj\Debug\Finch.CumpridoresTerceirizados.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\obj\Debug\Finch.CumpridoresTerceirizados.csproj.CopyComplete
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\obj\Debug\Finch.CumpridoresTerceirizados.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\obj\Debug\Finch.CumpridoresTerceirizados.pdb
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Dapper.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Dapper.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Options.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.ComponentModel.Annotations.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Text.Encodings.Web.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Cors.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Http.Cors.dll
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Options.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Text.Encodings.Web.xml
+C:\Users\Tiago\source\repos\Finch.CumpridoresTerceirizados\bin\System.Web.Http.Cors.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Finch.CumpridoresTerceirizados.dll.config
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Finch.CumpridoresTerceirizados.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Finch.CumpridoresTerceirizados.pdb
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\csc.exe
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\csc.exe.config
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\csc.rsp
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\csi.exe
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\csi.exe.config
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\csi.rsp
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.AppContext.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Console.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Globalization.Calendars.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.IO.Compression.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Net.Http.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Net.Sockets.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.ValueTuple.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\vbc.exe
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\vbc.exe.config
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\vbc.rsp
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\VBCSCompiler.exe
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Antlr3.Runtime.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\BouncyCastle.Crypto.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Dapper.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Google.Protobuf.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\K4os.Compression.LZ4.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\K4os.Compression.LZ4.Streams.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\K4os.Hash.xxHash.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Options.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Primitives.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Net.Http.Headers.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\MySql.Data.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Newtonsoft.Json.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Renci.SshNet.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Buffers.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.ComponentModel.Annotations.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Memory.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Numerics.Vectors.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Text.Encodings.Web.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Cors.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Helpers.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Http.Cors.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Http.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Mvc.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Optimization.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Razor.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.WebPages.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Ubiety.Dns.Core.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\WebGrease.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Zstandard.Net.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Dapper.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Google.Protobuf.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\K4os.Compression.LZ4.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\K4os.Compression.LZ4.Streams.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\K4os.Hash.xxHash.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Options.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Extensions.Primitives.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.Net.Http.Headers.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\MySql.Data.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Renci.SshNet.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Buffers.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Memory.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Numerics.Vectors.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Text.Encodings.Web.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Http.Cors.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Newtonsoft.Json.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Helpers.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Http.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Mvc.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Optimization.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.Razor.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.WebPages.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Antlr3.Runtime.pdb
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.Http.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.Razor.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\obj\Debug\Finch.CumpridoresTerceirizados.csprojAssemblyReference.cache
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\obj\Debug\Finch.CumpridoresTerceirizados.csproj.CopyComplete
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\obj\Debug\Finch.CumpridoresTerceirizados.dll
+C:\Silvio\AV Fc\Finch Cumpridores BackEnd\obj\Debug\Finch.CumpridoresTerceirizados.pdb
